@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+.venv/
+/models/*
+!/models/studio-demo.pt
+!/models/studio-isotropic.pt
+!/models/studio-morph.pt
+!/models/studio-patterns.pt
+!/models/studio-pixel.pt
